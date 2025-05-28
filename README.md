@@ -1,6 +1,6 @@
 # PhoneCall-Graph
 ## Description
-Write a C program calls.c with a Makefile to process files listing pairs of phone calls. Track call counts between numbers, answer queries on direct calls or shortest connection paths via BFS in an undirected graph. Handle errors gracefully and free all memory. Compile with make calls.
+Write a C program PhoneCallGraph.c with a Makefile to process files listing pairs of phone PhoneCallGraph. Track call counts between numbers, answer queries on direct PhoneCallGraph or shortest connection paths via BFS in an undirected graph. Handle errors gracefully and free all memory. Compile with make PhoneCallGraph.
 
 
 ## What I learned: 
@@ -15,11 +15,11 @@ Write a C program calls.c with a Makefile to process files listing pairs of phon
 
 ## How To run it:
 ### Compile the program using a C compiler, for example:
-    - gcc calls.c -o calls -Wall
+    - gcc PhoneCallGraph.c -o PhoneCallGraph -Wall
     
 ### Run the executable from the command line:
-    - ./calls inFile1 [inFile2 ...]
-        - Each input file contains pairs of phone numbers representing calls.
+    - ./PhoneCallGraph inFile1 [inFile2 ...]
+        - Each input file contains pairs of phone numbers representing PhoneCallGraph.
 
 ### Once running
     - Type a pair of phone numbers separated by space and press Enter.
