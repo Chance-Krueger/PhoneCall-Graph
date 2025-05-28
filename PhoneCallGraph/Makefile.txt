@@ -1,0 +1,2 @@
+PhoneCallGraph: PhoneCallGraph.c
+	gcc -Wall -g  PhoneCallGraph.c -o PhoneCallGraph
